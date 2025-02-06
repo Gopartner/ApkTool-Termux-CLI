@@ -58,6 +58,9 @@ crtl+t(tab baru) python operasi.py
 <p align="center">
 <a href="https://github.com/gopartner"><img title="GitHub" src="https://img.shields.io/badge/GitHub-GoPartner-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/yudibilly"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Yudibilly-red?style=for-the-badge&logo=instagram"></a>
-<a href="https://www.buymeacoffee.com/belikomi"><img title="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
-</p>
+
+## ☕ Dukung Saya dengan belikan kopi
+Silahkan Request
+
+[![Saweria](https://img.shields.io/badge/💰%20Donasi%20di-Saweria-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://saweria.co/yudibilly)
 
