@@ -1,0 +1,4 @@
+# Abaikan folder apks dan output
+/apks/
+/output/
+
