@@ -54,3 +54,10 @@ make
 python app.py
 crtl+t(tab baru) python operasi.py
 
+
+<p align="center">
+<a href="https://github.com/gopartner"><img title="GitHub" src="https://img.shields.io/badge/GitHub-GoPartner-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://www.instagram.com/yudibilly"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Yudibilly-red?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.buymeacoffee.com/belikomi"><img title="Buy Me a Coffee" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"></a>
+</p>
+
