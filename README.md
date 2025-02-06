@@ -53,7 +53,7 @@ chmod +x *
 make
 python app.py
 crtl+t(tab baru) python operasi.py
-
+```
 
 <p align="center">
 <a href="https://github.com/gopartner"><img title="GitHub" src="https://img.shields.io/badge/GitHub-GoPartner-brightgreen?style=for-the-badge&logo=github"></a>
