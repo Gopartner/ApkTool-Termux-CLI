@@ -13,14 +13,6 @@
 <a href="https://youtube.com/@yudibilly"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Yudibilly-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
-<p align="center">
-<a href="https://github.com/yudibilly"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python%2FBash-1f425f.svg?v=103&style=flat-square"></a>
-<a href="https://github.com/yudibilly"><img title="Followers" src="https://img.shields.io/github/followers/yudibilly?color=blue&style=flat-square"></a>
-<a href="https://github.com/yudibilly"><img title="Stars" src="https://img.shields.io/github/stars/yudibilly/Apktool-termux?color=red&style=flat-square"></a>
-<a href="https://github.com/yudibilly"><img title="Forks" src="https://img.shields.io/github/forks/yudibilly/Apktool-termux?color=red&style=flat-square"></a>
-<a href="https://github.com/yudibilly"><img title="Watching" src="https://img.shields.io/github/watchers/yudibilly/Apktool-termux?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/yudibilly"><img title="License" src="https://img.shields.io/badge/License-GNU-blue.svg?style=flat-square"></a>
-</p>
 
 ---
 
