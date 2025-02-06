@@ -9,10 +9,6 @@
 </p>
 
 <p align="center">
- <a href=""><img src="https://user-images.githubusercontent.com/46929618/150729143-6180cef9-6625-44b6-a27f-1da95c9af153.png" width="1000" height="300"></a>
-</p>
-
-<p align="center">
 <a href="https://github.com/yudibilly"><img title="Github" src="https://img.shields.io/badge/Yudibilly-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://youtube.com/@yudibilly"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Yudibilly-red?style=for-the-badge&logo=Youtube"></a>
 </p>
@@ -57,7 +53,7 @@
 ```bash
 apt-get update -y
 apt-get upgrade -y
-git clone https://github.com/gopartner/Apktool-termux-CLI
+git clone https://github.com/Gopartner/ApkTool-Termux-CLI.git
 cd $HOME
 ls
 cd Apktool-termux
