@@ -55,22 +55,23 @@ operasi.py (jalankan pada tab baru [ctrl+t])
 ```
 ## struktur project setelah install
 ```bash
-~/ApkTool-Termux-CLI $ tree -C              .
+~/ApkTool-Termux-CLI
 ├── Makefile
-├── README.md                               ├── apks                                    │   └── base.apk
+├── README.md
+├── apks
+│   └── base.apk
 ├── app.py
-├── install_apktool.sh                      ├── operasi.py
-├── output                                  └── uninstall_apktool.sh
-
-3 directories, 7 files
-~/ApkTool-Termux-CLI $
+├── install_apktool.sh
+├── operasi.py
+├── output
+└── uninstall_apktool.sh
 ```
 
 <p align="center">
 <a href="https://github.com/gopartner"><img title="GitHub" src="https://img.shields.io/badge/GitHub-GoPartner-brightgreen?style=for-the-badge&logo=github"></a>
 <a href="https://www.instagram.com/yudibilly"><img title="Instagram" src="https://img.shields.io/badge/Instagram-Yudibilly-red?style=for-the-badge&logo=instagram"></a>
 
-### ☕ Dukung Saya dengan belikan kopi
+#### ☕ Dukung Saya dengan belikan kopi
 
 [![Saweria](https://img.shields.io/badge/💰%20Donasi%20di-Saweria-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://saweria.co/yudibilly)
 
