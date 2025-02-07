@@ -148,6 +148,7 @@ textViewDynamic tidak memiliki teks awal, akan diisi secara dinamis melalui kode
 </p>
 
 ### Langkah 2: Deklarasikan String Resource (strings.xml)
+
 <p>
 Buka atau buat file res/values/strings.xml dan tambahkan string resource berikut:
 </p>
@@ -163,12 +164,14 @@ Penjelasan:
 
 String dengan nama hello_resource akan dipakai oleh textViewResource melalui atribut android:text="@string/hello_resource".
 </p>
+
 ### Langkah 3: Atur Data Dinamis di Kode Program (MainActivity.java atau MainActivity.kt)
 <p>
 Buat atau buka file Activity (misalnya, MainActivity.java) dan tambahkan kode untuk mengisi textViewDynamic secara dinamis.
 
 Contoh dengan Java:
 </p>
+
 ```bash
 package com.example.latihanteks;
 
@@ -195,6 +198,7 @@ public class MainActivity extends AppCompatActivity {
 <p>
 Contoh dengan Kotlin:
 </p>
+
 ```bash
 package com.example.latihanteks
 
