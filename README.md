@@ -108,6 +108,7 @@ contoh:
 <p>
 Buat file layout di folder res/layout/activity_main.xml dengan isi seperti berikut:
 </p>
+
 ```bash
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -137,8 +138,7 @@ Buat file layout di folder res/layout/activity_main.xml dengan isi seperti berik
         android:layout_height="wrap_content" />
 
 </LinearLayout>
-
-```
+``` 
 <p>
 Pada contoh di atas:
 
@@ -151,6 +151,7 @@ textViewDynamic tidak memiliki teks awal, akan diisi secara dinamis melalui kode
 <p>
 Buka atau buat file res/values/strings.xml dan tambahkan string resource berikut:
 </p>
+    
 ```bash
 <resources>
     <string name="app_name">LatihanTeks</string>
